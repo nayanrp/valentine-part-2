@@ -83,7 +83,7 @@
         /* The Peeking Cat at the bottom */
         .cat-container {
             position: absolute;
-            bottom: -10px; /* Slight overlap to look like it's hanging */
+            bottom: -50px; /* Slight overlap to look like it's hanging */
             left: 50%;
             transform: translateX(-50%);
             z-index: 6;
@@ -136,7 +136,7 @@
         <img src="animeboquest.avif" alt="Anime Bouquet" class="bouquet-img">
 
         <div class="note">
-            That you are so beautiful... ❤️
+            That you are so beautiful... ❤️, Genuily ignore my speeling mistake.. But thanks cheeky... You are OG.. supermedilodiferooro rocher ... meowwww
         </div>
 
         <div class="cat-container">
