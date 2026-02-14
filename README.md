@@ -133,14 +133,14 @@
 
     <div id="surprise-container">
         
-        <img src="https://i.pinimg.com/originals/96/6d/40/966d40e396dc1ee3650eb1df86a34791.gif" alt="Anime Bouquet" class="bouquet-img">
+        <img src="anime boquest.avif" alt="Anime Bouquet" class="bouquet-img">
 
         <div class="note">
             That you are so beautiful... ❤️
         </div>
 
         <div class="cat-container">
-            <img src="https://media.tenor.com/images/a44415510664923e100e4e7e6f851034/tenor.gif" alt="Cute Cat" class="cat-img">
+            <img src="anime.webp" alt="Cute Cat" class="cat-img">
         </div>
 
     </div>
